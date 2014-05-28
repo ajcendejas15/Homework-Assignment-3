@@ -25,6 +25,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		971431AC19355B9A00DEF3D8 /* Ex03_01.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ex03_01.h; sourceTree = "<group>"; };
+		971431AF19355BE600DEF3D8 /* Ex03_02.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ex03_02.h; sourceTree = "<group>"; };
+		971431B119356BBA00DEF3D8 /* EX03_03.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EX03_03.h; sourceTree = "<group>"; };
+		971431B2193571E600DEF3D8 /* Ex03_04.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ex03_04.h; sourceTree = "<group>"; };
+		971431B31935924300DEF3D8 /* Ex03_05.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ex03_05.h; sourceTree = "<group>"; };
 		97C2BFE21934F811003A3C8B /* Homework Assignment 3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Homework Assignment 3"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97C2BFE51934F811003A3C8B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		97C2BFE71934F811003A3C8B /* Homework_Assignment_3.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Homework_Assignment_3.1; sourceTree = "<group>"; };
@@ -61,6 +66,11 @@
 			isa = PBXGroup;
 			children = (
 				97C2BFE51934F811003A3C8B /* main.cpp */,
+				971431AC19355B9A00DEF3D8 /* Ex03_01.h */,
+				971431AF19355BE600DEF3D8 /* Ex03_02.h */,
+				971431B119356BBA00DEF3D8 /* EX03_03.h */,
+				971431B2193571E600DEF3D8 /* Ex03_04.h */,
+				971431B31935924300DEF3D8 /* Ex03_05.h */,
 				97C2BFE71934F811003A3C8B /* Homework_Assignment_3.1 */,
 			);
 			path = "Homework Assignment 3";
@@ -227,6 +237,7 @@
 				97C2BFED1934F811003A3C8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
